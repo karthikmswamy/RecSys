@@ -6,3 +6,5 @@ The IPython notebook contains all the necessary code for training a recommendati
 Requirements:
  - TensorFlow 0.12
  - Python 3
+
+Credits to https://github.com/songgc/TF-recomm for the base code.
